@@ -1,6 +1,6 @@
 # AMXX Menu for Xash3D
 
-This repository contains an AMXX menu designed specifically for Xash3D, enhancing the gaming experience for players and server administrators alike. AMXX (Advanced Mod X) is a powerful plugin language for Half-Life modifications, and Xash3D is an open-source engine designed to run Half-Life-based games. Also it's a customizable.
+This repository contains an AMXX menu designed specifically for Xash3D, enhancing the gaming experience for players and server administrators alike. AMXX (Advanced Mod X) is a powerful plugin language for Half-Life modifications, and Xash3D is an open-source engine designed to run Half-Life-based games. Also it's customizable.
 
 ## Installation
 
