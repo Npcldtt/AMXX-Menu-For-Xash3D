@@ -10,6 +10,10 @@ To install the AMXX menu for Xash3D, follow these steps:
 2. **Extract Files**: Extract the downloaded files to your **valve** file directory.
 3. **Launch**: Start Xash3D, type *exec plugins/voix/menu.cfg* and the menu should be accessible in-game.
 
+## License
+
+This project is licensed under the [MIT License](LICENSE), allowing for both personal and commercial use with proper attribution.
+
 ## Support
 
 For any inquiries, issues, or assistance regarding the AMXX menu for Xash3D, please open an issue on the repository, and we'll do our best to address it promptly.
