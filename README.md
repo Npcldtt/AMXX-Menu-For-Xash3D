@@ -12,7 +12,7 @@ To install the AMXX menu for Xash3D, follow these steps:
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE), allowing for both personal and commercial use with proper attribution.
+This project is licensed under the [MIT License](LICENSE.md), allowing for both personal and commercial use with proper attribution.
 
 ## Support
 
